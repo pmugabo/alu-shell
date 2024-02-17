@@ -17,4 +17,3 @@
 #   If any other or no arguments are passed, displays
 #+  "Usage: manage_my_process {start|stop|restart}"
 
-if [ "${1}" == "start" ]
